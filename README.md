@@ -6,7 +6,7 @@ Hello, I'm Funda 🙋‍♀️<br><br>
 💬 Ask me about anything, I'll be happy to help<br>
 ⚡ Reminder : With great power comes great responsibility
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fundayldrmkaraman/) 
 
 # 💻 Skills:
