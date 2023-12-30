@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **yildirimkaramanfunda@gmail.com**
 
+- 💬 Ask me about anything, I'll be happy to help
+
 - ⚡ Reminder : **With great power comes great responsibility**
 
 <h3 align="left">Connect with me:</h3>
