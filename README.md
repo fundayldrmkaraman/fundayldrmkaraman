@@ -5,11 +5,11 @@
 
 - 💪🏻 Quite strong in learning, researching, working
 
-- 📫 How to reach me yildirimkaramanfunda@gmail.com
-
 - 💬 Ask me about anything, I'll be happy to help
 
 - ⚡ Reminder : With great power comes great responsibility
+
+- 📫 How to reach me yildirimkaramanfunda@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
