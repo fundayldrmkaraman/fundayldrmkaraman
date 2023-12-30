@@ -14,9 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fundayldrmkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fundayldrmkaraman" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="mailto:yildirimkaramanfunda@gmail.com"><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"></a>
+<a href="mailto:yildirimkaramanfunda@gmail.com"><img alt="Jupyter" src=<a href="https://www.freepik.com/icon/gmail_732200#fromView=keyword&term=Mail&page=1&position=6&uuid=6f367d3b-0b29-44b5-8b78-5598f7b37038">Icon by Pixel perfect</a> width="30" height="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
