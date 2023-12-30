@@ -3,6 +3,8 @@
 
 - 🎓 Graduated from Deu'22
 
+- 💪🏻 Quite strong in learning, researching, working
+
 - 📫 How to reach me yildirimkaramanfunda@gmail.com
 
 - 💬 Ask me about anything, I'll be happy to help
