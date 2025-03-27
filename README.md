@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Funda 🙋🏻‍♀️</h1>
-<h3 align="center">I'm Computer Scientist </h3>
+<h3 align="center">I'm a Computer Scientist </h3>
 
 - 🎓 Graduated from Deu'22
 
